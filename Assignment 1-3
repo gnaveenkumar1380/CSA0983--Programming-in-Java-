@@ -1,0 +1,9 @@
+class abc {
+    public static void main(String[] args) {
+        int f = 1, j = 5; 
+        int inadResult = 0;
+        int divresult = 0;
+        int modResult = i % j;
+        System.out.println(modResult);
+    }
+}
